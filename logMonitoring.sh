@@ -22,4 +22,4 @@ done
 
 
 #Um alles in ein File zu schreiben statt per E-Mail zu senden (mit dem oberen tail austauschen)
-#tail -f $1 | grep -E "((WARNING)|(INFO)|(ERROR))" > C:/Users/loren/OneDrive/Desktop/Modul122/Errors.txt
+#tail -f $1 | grep -E "((WARNING)|(INFO)|(ERROR))" > hierpfad und filename 
